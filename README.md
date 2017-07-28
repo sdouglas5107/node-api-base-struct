@@ -3,7 +3,7 @@
 This is project is based on the awesome [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack).
 It is meant to be a scaffold for Nodejs APIs only, without frontend integration.
 
-##Features
+## Features
 
 * JWT authentication boilerplate
 * Unit and Integration tests template
